@@ -1,0 +1,2 @@
+rootProject.name = "Earthquake Finder"
+include ':app'
